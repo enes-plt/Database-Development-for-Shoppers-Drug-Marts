@@ -1,5 +1,5 @@
 # Database-Development-for-Shoppers-Drug-Marts
-Comprehensive Point of Sale (POS) System for Shopper Drug Mart to optimize retail and pharmacy management, enabling effective inventory control, customer data management, and prescription processing.
+Comprehensive Point of Sale (POS) System for Shopper Drug Marts to optimize retail and pharmacy management, enabling effective inventory control, customer data management, and prescription processing.
 
 - Designed and implemented SQL tables for entities including Employees, Products, Customers, Transactions, Inventory, and Receipts.
 - Created advanced queries for data retrieval, including aggregations, joins, and subqueries, enabling insights into inventory levels, customer points, and sales.
