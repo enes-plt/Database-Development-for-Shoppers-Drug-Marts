@@ -1,4 +1,7 @@
 # Database-Development-for-Shoppers-Drug-Marts
+
+Enes Polat, Simon Lin and Dylan Ha
+
 Comprehensive Point of Sale (POS) System for Shopper Drug Marts to optimize retail and pharmacy management, enabling effective inventory control, customer data management, and prescription processing.
 
 - Designed and implemented SQL tables for entities including Employees, Products, Customers, Transactions, Inventory, and Receipts.
