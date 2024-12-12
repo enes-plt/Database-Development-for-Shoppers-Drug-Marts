@@ -17,25 +17,25 @@ Requirements:
    -note: may require installation of MSVC C++ Build Tools v14.0 or greater
 - PIL (Pillow, run pip install pillow, should come with tk installation)
 
-Once installed, start CS VPN connection and run main.py and login with your proper cs credentials to access the DB.
+After installing, connect to the CS VPN and execute main.py, logging in with your CS credentials to access the database.
 
-You can begin by dropping all tables to start the DB from fresh, followed by selecting "Create all tables" to create tables in the DB.
+To start fresh, you can drop all existing tables, then select "Create all tables" to initialize the database structure.
 
-"Populate all tables" will fill the tables with dummy data. 
+The "Populate all tables" option fills the tables with sample data for testing purposes.
 
-"Query All Tables" will run a couple advanced queries and display the results of the queries.
+The "Query All Tables" feature runs some predefined advanced queries and displays their results.
 
-"Show all Tables" will show tables currently in the DB.
+Choosing "Show all Tables" will display the current tables in the database.
 
-"Run Custom Query" allows you to input your own syntactically correct sql query in the text field and run it once clicked.
+The "Run Custom Query" feature lets you enter and execute a valid SQL query directly in the input field.
 
-"Drop all Tables" removes all tables from the DB.
+The "Drop all Tables" option removes all database tables.
 
-"Exit" closes the program
+Finally, "Exit" closes the application.
 
-Below are some sample queries you can run using the custom query input (note: cx_oracle syntax does not require semicolons at the end of statements):
+Below are examples of SQL queries that can be used with the custom query feature (note: cx_Oracle syntax does not require semicolons at the end):
 
-SELECT * FROM product WHERE price > 5 
+SELECT * FROM product WHERE price > 5
 
 SELECT * FROM customer
 
