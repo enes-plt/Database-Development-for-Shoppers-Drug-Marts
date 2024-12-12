@@ -21,17 +21,17 @@ After installing, connect to the CS VPN and execute main.py, logging in with you
 
 To start fresh, you can drop all existing tables, then select "Create all tables" to initialize the database structure.
 
-The "Populate all tables" option fills the tables with sample data for testing purposes.
+"Populate all tables" option fills the tables with sample data for testing purposes.
 
-The "Query All Tables" feature runs some predefined advanced queries and displays their results.
+"Query All Tables" feature runs some predefined advanced queries and displays their results.
 
-Choosing "Show all Tables" will display the current tables in the database.
+"Show all Tables" will display the current tables in the database.
 
-The "Run Custom Query" feature lets you enter and execute a valid SQL query directly in the input field.
+"Run Custom Query" feature lets you enter and execute a valid SQL query directly in the input field.
 
-The "Drop all Tables" option removes all database tables.
+"Drop all Tables" option removes all database tables.
 
-Finally, "Exit" closes the application.
+"Exit" closes the application.
 
 Below are examples of SQL queries that can be used with the custom query feature (note: cx_Oracle syntax does not require semicolons at the end):
 
